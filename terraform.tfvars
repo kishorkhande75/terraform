@@ -1,5 +1,5 @@
-access_key    = "AKIA4RNHTVSOYHFBKDDM"
-secret_key    = "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"
+access_key    = "ABC"
+secret_key    = "XYZ"
 instance_type = "t2.micro"
 image_id      = "ami-01b996646377b6619"
 key_name      = "mykey"
